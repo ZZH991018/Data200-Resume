@@ -1,0 +1,142 @@
+---
+title: "Zhaohong Zhang"
+author: Zhaohong Zhang
+date: "12/12/2022"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>zzhang33@tufts.edu
+- <i class="fa fa-github"></i> [github.com/ZZH991018/](https://github.com/ZZH991018/)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- Microsoft, Python, R, SQL, Looker, Data Studio, MATLAB, ArcGIS Pro
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Zhaohong Zhang {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2023 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2022--Current
+
+
+### Northeastern University
+
+B.A. in Finance
+
+Boston, MA 
+
+2018--2022
+
+
+
+Professional Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### E-commerce Coop (Category Management Specialist)
+
+Wayfair Inc.
+
+Boston, MA
+
+January 2022 – June 2022 
+
+- Utilized Looker, Google Data Studio, and other big data analytics platforms to build dashboards, analyze monthly performance, and help develop insightful visualizations for the bedding category
+-	Conducted research and reports of main competitors (Pottery Barn, Serena & Lily, Ballard Designs) to identify their showcasing and marketing strategy in the bath category 
+- Generated Business analysis report for Birch Lane team and identified top-selling SKUs in 2021 with Dash in Excel and Imagery Reporting Tool 
+
+
+
+Projects Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Python Project: "The impact of Donald Trump's election on the U.S. stock market" 
+
+Northeastern University
+
+Boston, MA
+
+August 2021
+
+<!--::: concise-->
+- Extracted stock market returns surrounding the 2016 election from Yahoo Finance and divided the financial market into different sectors
+- Calculated the abnormal return and cumulative return across periods, visualized the findings with Matplotlib, and wrote reports analyzing underlying reasons of market reaction      
+
+<!--:::-->
+
+
+
+
+### Python Project: "Sell in May and Go Away" 
+
+Tufts University
+
+Medford, MA
+
+2015 -- 2018
+
+- Calculated annual return of keeping money in the market and compared with applying "Sell in May" 
+- Visualized data comparison by using Matplotlib and analyzed pros and cons while considering both efficient market hypothesis and practices
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Presented a model for Airbnb price detection, and summarized main results and assumptions of the model to my cohort. 
+
+Medford, MA
+
+December 2022
+
+
